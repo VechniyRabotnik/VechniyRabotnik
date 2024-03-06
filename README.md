@@ -3,15 +3,9 @@
 </div>  
   
 
-### *<div align="center">I'm Programmer with a pseudonym Vechniy Rabotnik</div>*  
+### *<div align="center">I'm Programmer Vechniy Rabotnik</div>*  
+
   
-
-- Founder and main coder of the OrionRP - project in the game Garry's Mod [project closed]  
-
-
-- Founder and main coder of the Eternal project in the game Garry's Mod [project open]  
-  
-
 - I am constantly learning programming languages  
   
 
