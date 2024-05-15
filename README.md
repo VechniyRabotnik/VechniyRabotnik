@@ -9,7 +9,7 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VechniyRabotnik&hide=java,html,tex&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
         </a>
         <br>
-        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8EECF5&random=false&width=285&lines=My+name+VechniyRabotnik." alt="Hello, my name is VechniyRabotnik">
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8EECF5&random=false&width=285&lines=VechniyRabotnik." alt="Hello, my name is VechniyRabotnik">
         <br>
     </div>
     <div align="center">
