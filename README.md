@@ -1,110 +1,41 @@
-<div align="center">
-<img src="https://cdn.discordapp.com/attachments/660157484631195679/1116373836573720607/glitch_2023-6-8_17-29-37.gif" align="center" style="width: 100%" />
-</div>  
-  
+<!DOCTYPE html>
+<html>
+<body>
+ <!-- Created based on https://github.com/xXxCLOTIxXx/xXxCLOTIxXx?tab=readme-ov-file -->
+    <h1 align="center"><img scr="res/main.gif", alt="Welcome to my profile!"></h1><br>
+    <div align="center">
+        <a href="https://github.com/VechniyRabotnik/VechniyRabotnik">
+            <img src="https://github-readme-stats.vercel.app/api?username=VechniyRabotnik&show_icons=true&line_height=27&count_private=true&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VechniyRabotnik&hide=java,html,tex&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
+        </a>
+        <br>
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8EECF5&random=false&width=285&lines=My+name+VechniyRabotnik." alt="Hello, my name is VechniyRabotnik">
+        <br>
+    </div>
+    <div align="center">
+        <h1>
+            Current projects
+        </h1>
+        		<a href="https://github.com/VechniyRabotnik/MyGLuaScriptsForSCPRP">
+		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=MyGLuaScriptsForSCPRP&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="MyGLuaScriptsForSCPRP">
+		</a>
+ <!-- 		<a href="https://github.com/VechniyRabotnik/">
+		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="">
+		</a>
+-->
+        <br><br>
+    </div>
+    <div align="center">
+        <h1>
+            My knowledhes
+        </h1>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+        <img src="https://img.shields.io/badge/Csharp-3670A0?style=for-the-badge&logo=csharp&logoColor=ffdd54" alt="С#">
+        <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="html5">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="css3">
+        <img src="https://img.shields.io/badge/Lua-1572B6?logo=lua&logoColor=white&style=for-the-badge" alt="lua">
+        <img src="https://img.shields.io/badge/github-181717?logo=github&logoColor=white&style=for-the-badge" alt="github" >
+    </div>
 
-### *<div align="center">I'm Programmer Vechniy Rabotnik</div>*  
-
-  
-- I am constantly learning programming languages  
-  
-
-- To contact me, use the attached social networks  
-  
-
-- I like to work  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Languages learned  
-<div align="center">  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.lua.org" target="_blank"><img style="margin: 10px" src="https://www.lua.org/images/lua30.gif" alt="Lua" height="50" /></a> 
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### In the process of studying  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Planned study  
-<div align="center">  
-<a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/VechniyRabotnik" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://tapy.me/vechniyrabotnik" target="_blank">
-<img src=https://img.shields.io/badge/tapyme-%2324292e.svg?&style=for-the-badge&logo=tapyme&logoColor=white alt=tapyme style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@vechniyrabotnik/featured" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VechniyRabotnik&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31c36jfryuod45h2jorzqazmobmi&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=VechniyRabotnik&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/VechniyRabotnik" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
+</body>
+<html>
