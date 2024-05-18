@@ -2,7 +2,7 @@
 <html>
 <body>
  <!-- Created based on https://github.com/xXxCLOTIxXx/xXxCLOTIxXx?tab=readme-ov-file -->
-    <h1 align="center"><img scr="res/main.jpg", alt="Welcome to my profile!"></h1><br>
+    <h1 align="center"><img src="res/main.jpg", alt="Welcome to my profile!"></h1><br>
     <div align="center">
         <a href="https://github.com/VechniyRabotnik/VechniyRabotnik">
             <img src="https://github-readme-stats.vercel.app/api?username=VechniyRabotnik&show_icons=true&line_height=27&count_private=true&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
