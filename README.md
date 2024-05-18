@@ -2,14 +2,14 @@
 <html>
 <body>
  <!-- Created based on https://github.com/xXxCLOTIxXx/xXxCLOTIxXx?tab=readme-ov-file -->
-    <h1 align="center"><img scr="res/main.gif", alt="Welcome to my profile!"></h1><br>
+    <h1 align="center"><img scr="res/main.png", alt="Welcome to my profile!"></h1><br>
     <div align="center">
         <a href="https://github.com/VechniyRabotnik/VechniyRabotnik">
-            <img src="https://github-readme-stats.vercel.app/api?username=VechniyRabotnik&show_icons=true&line_height=27&count_private=true&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VechniyRabotnik&hide=java,html,tex&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
+            <img src="https://github-readme-stats.vercel.app/api?username=VechniyRabotnik&show_icons=true&line_height=27&count_private=true&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VechniyRabotnik&hide=java,html,tex&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
         </a>
         <br>
-        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8EECF5&random=false&width=285&lines=VechniyRabotnik." alt="Hello, my name is VechniyRabotnik">
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=a411e9&random=false&width=285&lines=My+name+VechniyRabotnik." alt="My name VechniyRabotnik">
         <br>
     </div>
     <div align="center">
@@ -17,7 +17,7 @@
             Current projects
         </h1>
         		<a href="https://github.com/VechniyRabotnik/MyGLuaScriptsForSCPRP">
-		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=MyGLuaScriptsForSCPRP&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="MyGLuaScriptsForSCPRP">
+		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=MyGLuaScriptsForSCPRP&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="MyGLuaScriptsForSCPRP">
 		</a>
  <!-- 		<a href="https://github.com/VechniyRabotnik/">
 		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=&title_color=8eecf5&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="">
