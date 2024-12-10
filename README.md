@@ -19,6 +19,9 @@
         		<a href="https://github.com/VechniyRabotnik/MyGLuaScriptsForSCPRP">
 		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=MyGLuaScriptsForSCPRP&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="MyGLuaScriptsForSCPRP">
 		</a>
+	        <a1 href="https://github.com/VechniyRabotnik/MyGLuaScriptsForSCPRP">
+		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=VechnLY_amnestics&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="MyGLuaScriptsForSCPRP">
+		</a1>
         <br><br>
     </div>
     <div align="center">
