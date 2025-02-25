@@ -13,23 +13,31 @@
         <br>
     </div>
     <div align="center">
+<h1>My Projects</h1>
+        <ul>
+            <li>
+                <a href="https://github.com/VechniyRabotnik/MyGLuaScriptsForSCPRP">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=MyGLuaScriptsForSCPRP&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MyGLuaScriptsForSCPRP">
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/VechniyRabotnik/VechnLY_amnestics">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=VechnLY_amnestics&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="VechnLY_amnestics">
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/VechniyRabotnik/Vechniy-Doorbust-System">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=Vechniy-Doorbust-System&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vechniy-Doorbust-System">
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/VechniyRabotnik/GolangToDoListConsole">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=GolangToDoListConsole&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GolangToDoListConsole">
+                </a>
+            </li>
+        </ul>
         <h1>
-            Current projects
-        </h1>
-        		<a href="https://github.com/VechniyRabotnik/MyGLuaScriptsForSCPRP">
-		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=MyGLuaScriptsForSCPRP&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="MyGLuaScriptsForSCPRP">
-		</a>
-	        	<a1 href="https://github.com/VechniyRabotnik/VechnLY_amnestics">
-		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=VechnLY_amnestics&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="VechnLY_amnestics">
-		</a1>
-	        	<a2 href="https://github.com/VechniyRabotnik/Vechniy-Doorbust-System">
-		 <img align=”center” src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=Vechniy-Doorbust-System&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21", alt="Vechniy-Doorbust-System">
-		</a2>
-        <br><br>
-    </div>
-    <div align="center">
-        <h1>
-            My knowledhes
+            My knowledge
         </h1>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
         <img src="https://img.shields.io/badge/Csharp-3670A0?style=for-the-badge&logo=csharp&logoColor=ffdd54" alt="С#">
