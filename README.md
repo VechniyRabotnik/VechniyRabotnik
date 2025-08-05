@@ -35,6 +35,11 @@
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=GolangToDoListConsole&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GolangToDoListConsole">
                 </a>
             </li>
+           <li>
+                <a href="https://github.com/VechniyRabotnik/CodeRun-Yandex-2025">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=CodeRun-Yandex-2025&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="CodeRun-Yandex-2025">
+                </a>
+            </li>
         </ul>
         <h1>
             My knowledge
