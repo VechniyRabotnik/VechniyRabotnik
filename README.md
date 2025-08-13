@@ -40,6 +40,11 @@
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=CodeRun-Yandex-2025&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="CodeRun-Yandex-2025">
                 </a>
             </li>
+           <li>
+                <a href="[https://github.com/VechniyRabotnik/VechnASCIIArt">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=VechnASCIIArt&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="VechnASCIIArt">
+                </a>
+            </li>
         </ul>
         <h1>
             My knowledge
