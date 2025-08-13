@@ -41,7 +41,7 @@
                 </a>
             </li>
            <li>
-                <a href="[https://github.com/VechniyRabotnik/VechnASCIIArt">
+                <a href="https://github.com/VechniyRabotnik/VechnASCIIArt">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=VechnASCIIArt&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="VechnASCIIArt">
                 </a>
             </li>
