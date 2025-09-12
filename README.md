@@ -17,6 +17,7 @@
     </div>
     <div align="center">
 <h1>My Projects</h1>
+         <a href="https://tinymadness.online"/>
         <ul>
             <li>
                 <a href="https://github.com/VechniyRabotnik/GolangTicTacToe">
