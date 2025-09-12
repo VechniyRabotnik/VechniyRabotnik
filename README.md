@@ -19,7 +19,7 @@
 <h1>My Projects</h1>
         <ul>
          <a href="https://tinymadness.online">
-           <img src="res/project.jpg" alt="TinyMadness">
+           <img src="res/tinymadness.jpg" alt="TinyMadness">
          </a>
             <li>
                 <a href="https://github.com/VechniyRabotnik/GolangTicTacToe">
