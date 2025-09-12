@@ -17,8 +17,8 @@
     </div>
     <div align="center">
 <h1>My Projects</h1>
-         <a href="https://tinymadness.online"/>
         <ul>
+         <a href="https://tinymadness.online"/>
             <li>
                 <a href="https://github.com/VechniyRabotnik/GolangTicTacToe">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=GolangTicTacToe&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GolangTicTacToe">
