@@ -11,6 +11,9 @@
         <br>
         <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=a411e9&random=false&width=285&lines=My+name+VechniyRabotnik." alt="My name VechniyRabotnik">
         <br>
+        <br>
+        <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=a411e9&random=false&width=285&lines=Founder+Studio+TinyMadness." alt="Founder Studio TinyMadness">
+        <br>
     </div>
     <div align="center">
 <h1>My Projects</h1>
