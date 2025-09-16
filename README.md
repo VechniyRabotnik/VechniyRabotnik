@@ -37,6 +37,11 @@
                 </a>
             </li>
             <li>
+                <a href="https://github.com/VechniyRabotnik/Vechniy-SCP-012">
+                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=Vechniy-SCP-012&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vechniy-SCP-012">
+                </a>
+            </li>
+            <li>
                 <a href="https://github.com/VechniyRabotnik/GolangToDoListConsole">
                     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VechniyRabotnik&repo=GolangToDoListConsole&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GolangToDoListConsole">
                 </a>
