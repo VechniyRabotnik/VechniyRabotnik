@@ -28,6 +28,7 @@
 - [GolangTicTacToe](https://github.com/VechniyRabotnik/GolangTicTacToe)  
 - [VechnLY_amnestics](https://github.com/VechniyRabotnik/VechnLY_amnestics)  
 - [Vechniy-Doorbust-System](https://github.com/VechniyRabotnik/Vechniy-Doorbust-System)  
+- [Vechniy-SCP-006](https://github.com/VechniyRabotnik/Vechniy-SCP-006)  
 - [Vechniy-SCP-012](https://github.com/VechniyRabotnik/Vechniy-SCP-012)  
 - [Vechniy-SCP-019](https://github.com/VechniyRabotnik/Vechniy-SCP-019)  
 - [GolangToDoListConsole](https://github.com/VechniyRabotnik/GolangToDoListConsole)  
