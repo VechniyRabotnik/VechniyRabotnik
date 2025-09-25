@@ -8,10 +8,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VechniyRabotnik&show_icons=true&count_private=true&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VechniyRabotnik&hide=java,html,tex&title_color=a411e9&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Top Languages" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VechniyRabotnik&show_icons=true&theme=react-dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VechniyRabotnik&layout=compact&theme=react-dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VechniyRabotnik&theme=react-dark)  
 
 ---
 
