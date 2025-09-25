@@ -29,6 +29,7 @@
 - [VechnLY_amnestics](https://github.com/VechniyRabotnik/VechnLY_amnestics)  
 - [Vechniy-Doorbust-System](https://github.com/VechniyRabotnik/Vechniy-Doorbust-System)  
 - [Vechniy-SCP-012](https://github.com/VechniyRabotnik/Vechniy-SCP-012)  
+- [Vechniy-SCP-019](https://github.com/VechniyRabotnik/Vechniy-SCP-019)  
 - [GolangToDoListConsole](https://github.com/VechniyRabotnik/GolangToDoListConsole)  
 - [CodeRun-Yandex-2025](https://github.com/VechniyRabotnik/CodeRun-Yandex-2025)  
 - [VechnASCIIArt](https://github.com/VechniyRabotnik/VechnASCIIArt)  
