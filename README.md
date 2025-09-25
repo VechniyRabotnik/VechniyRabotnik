@@ -8,8 +8,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VechniyRabotnik&show_icons=true&theme=react-dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VechniyRabotnik&layout=compact&theme=react-dark)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VechniyRabotnik&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VechniyRabotnik&layout=compact&theme=dark)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VechniyRabotnik&theme=react-dark)  
 
 ---
